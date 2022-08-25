@@ -1,5 +1,5 @@
-let nome = console.log(marcos)
-let email = console.log(marquinhochievo@hotmail.com)
-let profissão = console.log(designer)
-let idade = console.log(38)
-let viagem = console.log(indonésia)
+let nome = "marcos"
+let email = "marquinhochievo@hotmail.com"
+let profissão = "designer"
+let idade = "38"
+let viagem ="indonesia"
