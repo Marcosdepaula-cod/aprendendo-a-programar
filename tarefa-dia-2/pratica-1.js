@@ -1,5 +1,9 @@
 let nome = "marcos"
+
 let email = "marquinho"
-let profissão = "designer"
+
+let profissao = "designer"
+
 let idade = "38"
-let viage = "indonesia"
+
+let viagem = "indonesia"
