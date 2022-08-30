@@ -14,3 +14,11 @@ console.log(email)
 console.log(profissão)
 console.log(idade)
 console.log(viagem)
+
+Olá, "Marcos"! Somos aqui da agência de turismo Viagem dos Sonhos. Estamos te escrevendo este email, pois acabamos de confirmar as compras das passagens aéreas para "Indonésia". Confirma pra gente alguns dados? A sua idade "38" que armazena sua idade>, você é "designer" e o seu email é "marquinhochievo@hotmail.com"? Ficamos no aguardo. Muito obrigado e boa viagem! :D
+
+console.log(nome)
+console.log(email)
+console.log(profissão)
+console.log(idade)
+console.log(viagem)
